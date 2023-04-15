@@ -1,6 +1,10 @@
 # ts-sample
 ## Installation
 ```
+$ npm install -g typescript
+```
+Or
+```
 $ npm install typescript --save-dev
 ```
 > added 1 package in 14s
